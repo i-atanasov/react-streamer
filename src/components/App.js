@@ -5,9 +5,6 @@ import StreamDelete from './streams/StreamDelete';
 import StreamEdit from './streams/StreamEdit';
 import StreamShow from './streams/StreamShow';
 import Header from "./Header";
-
-//178847721818-t0nd20mmegvotbhk9ss48npr116ijhkm.apps.googleusercontent.com
-
 import { BrowserRouter, Route } from 'react-router-dom';
 
 const App = () => {
