@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "test",
+      "description": "same test",
+      "id": 1
+    },
+    {
+      "title": "test",
+      "description": "same test",
+      "id": 2
+    },
+    {
+      "title": "test",
+      "description": "anpther test",
+      "id": 3
+    }
+  ]
+}
