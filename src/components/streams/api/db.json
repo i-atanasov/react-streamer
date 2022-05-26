@@ -1,38 +1,15 @@
 {
   "streams": [
     {
-      "title": "test",
-      "description": "same test",
-      "id": 1
-    },
-    {
       "title": "test stream",
       "description": "same test",
       "id": 2
-    },
-    {
-      "title": "test",
-      "description": "anpther test",
-      "userId": "104842304746407078462",
-      "id": 3
     },
     {
       "title": "Another",
       "description": "this time with user id",
       "userId": null,
       "id": 4
-    },
-    {
-      "title": "Another stream edited",
-      "description": "this time with user id",
-      "userId": "104842304746407078462",
-      "id": 5
-    },
-    {
-      "title": "navigation with patch",
-      "description": "object",
-      "userId": "104842304746407078462",
-      "id": 6
     },
     {
       "title": "Streaming component reuse",
